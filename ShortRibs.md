@@ -4,7 +4,6 @@
 - [Francis Houle](https://ca.linkedin.com/in/francis-houle-4175094)
 - [Guillaume Blouin](https://ca.linkedin.com/in/guillaume-blouin-183ab939)
 
-
 ## Viande
 - Short ribs de boeuf
 - La [Boucherie du terroir](https://boucherieduterroir.ca/) en ont toujours en stock
@@ -17,6 +16,7 @@
 ## Étapes
 
 ### Préparation de la viande
+- Essayez de ne pas avoir trop de gras sur le dessus, sans tout le retirer
 - Appliquer une fine couche de moutarde "baseball"/"jaune" sur les pièces de viande
 - L'objectif est de faire coller le rub, la moutarde est un classique
 - Ajouter le rubs (ne pas oublier les côtés)
@@ -25,17 +25,18 @@
 - Température du fumoir à 250F
 
 ### Étape 1 - Fumage
+- Placer sur le fumoir, la viande sur le dessus, donc les os en dessous
 - Fumer la viande jusqu'à ce qu'elle atteigne de la température de 160F
 
 ### Étape 2 - Enveloppement
-- Ici nous allons utilier la méthode du "Foil Boat Wrap"
+- Ici nous allons utiliser la méthode du "Foil Boat Wrap"
     - Ceci consiste à faire un petit bac / bateau en aluminium pour contenir chaque pièce de viande individuelle
     - Seul le dessus de la pièce de viande doit être visible une fois à l'intérieur
-    - Ceci permet de faire mijoter la viande dans le bateau, et garder un rub sec sur le dessus
+    - Ceci permet de faire mijoter la viande dans le "Bateau", et garder un rub sec sur le dessus
     - Voici une référence sur [https://texasbbq.substack.com/](https://texasbbq.substack.com/)
 
 - Mettre du liquide dans le fond de chaque "Bateau", ici du consommé de boeuf
-- Placer chaque pièce dans son bateau et resserer le tour
+- Placer chaque pièce dans son "Bateau" et resserer le tour
     - Nous voulons que ce soit le plus hermétique possible
 
 ### Étape 3 - Fumage final
