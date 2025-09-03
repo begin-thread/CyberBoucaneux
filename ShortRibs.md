@@ -28,11 +28,14 @@
 - Fumer la viande jusqu'à ce qu'elle atteigne de la température de 160F
 
 ### Étape 2 - Enveloppement
-- Préparer des piscines de papier d'aluminium
-    - Ceci consiste à faire un petit bac en aluminium pour contenir chaque pièce de viande individuelle
+- Ici nous allons utilier la méthode du "Foil Boat Wrap"
+    - Ceci consiste à faire un petit bac / bateau en aluminium pour contenir chaque pièce de viande individuelle
     - Seul le dessus de la pièce de viande doit être visible une fois à l'intérieur
-- Mettre dans le fond de chaque piscine du liquide, ici du consommé de boeuf
-- Placer chaque pièce dans son petit bac en aluminium et resserer le tour
+    - Ceci permet de faire mijoter la viande dans le bateau, et garder un rub sec sur le dessus
+    - Voici une référence sur [https://texasbbq.substack.com/](https://texasbbq.substack.com/)
+
+- Mettre du liquide dans le fond de chaque "Bateau", ici du consommé de boeuf
+- Placer chaque pièce dans son bateau et resserer le tour
     - Nous voulons que ce soit le plus hermétique possible
 
 ### Étape 3 - Fumage final
@@ -40,6 +43,7 @@
 
 ### Étape 4 - Repos
 - Une fois à 205F, retirer du fumoir
+- Retirer des "Bateaux" - Ceci sera très fragile et pourrait se détacher de l'os, donc il faut y aller lentement
 - Laisser reposer pendant 15 minutes
 - Servir
 
