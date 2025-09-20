@@ -56,8 +56,8 @@
     - On wrap avec du papier d'aluminium
     - On wrap une seconde fois avec du papier de boucher
     
-- Mettre du liquide le wrap d'amulminium ici du consommé de boeuf
-- Mouiller le papier avec du liquide pour que la 2e couche tienne
+- Mettre du liquide le wrap d'aluminium ici du consommé de boeuf
+- Mouiller le papier de boucher avec du liquide pour que la 2e couche tienne
 
 ### Étape 3 - Fumage final
 - Apporter la viande jusqu'a 203F
