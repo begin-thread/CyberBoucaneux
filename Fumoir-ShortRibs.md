@@ -1,6 +1,6 @@
 # Short Ribs de boeuf
 
-## Références
+## Ceux de qui j'apprends et qui m'ont aider avec cette recette
 - [Francis Houle](https://ca.linkedin.com/in/francis-houle-4175094)
 - [Guillaume Blouin](https://ca.linkedin.com/in/guillaume-blouin-183ab939)
 
@@ -64,7 +64,8 @@
 - Une fois à 205F, retirer du fumoir
 - Retirer des "Bateaux" - Ceci sera très fragile et pourrait se détacher de l'os, donc il faut y aller lentement
 - Laisser reposer pendant 15 minutes
-- Servir
+
+
 
 
 

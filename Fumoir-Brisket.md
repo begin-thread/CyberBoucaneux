@@ -1,6 +1,6 @@
 # Brisket de boeuf
 
-## Références
+## Ceux de qui j'apprends et qui m'ont aider avec cette recette
 - [Francis Houle](https://ca.linkedin.com/in/francis-houle-4175094)
 - [Guillaume Blouin](https://ca.linkedin.com/in/guillaume-blouin-183ab939)
 
@@ -13,12 +13,13 @@
     - Ici, Ben Guerette à utiliser une 6.6kg
 
 ## Rub
-- Francis : 
+- Francis : TBD
 - Benoit : Mon meilleur essai a été avec [SJB Épices à frotter Brisket](https://www.sjbbbq.com/products/epices-a-frotter-brisket)
 
 # Temps estimé
-- Cela dépends toujours de la grosseur des morceaux évidemment
+- Cela dépends toujours de la grosseur évidemment
 - Fumage pour 10 heures, Cuisson dans le wrap pour 4 heures, Repos 2-4 heures
+    - 2025-09-18 - 6.6kg, fumage et wrap 12.5 heures, cooler 3 heures.
 - Le meilleur truc reste toujours de pratique une fois avant de recevoir de la visite et le faire pour vrai
 
 # Stall 
@@ -38,6 +39,7 @@
 
 ### Enrobage
 - Appliquer une fine couche de moutarde "baseball"/"jaune" sur les pièces de viande
+    - Francis utilise de l'huile avec le boeuf
 - L'objectif est de faire coller le rub, la moutarde est un classique
 - Ajouter le rubs (ne pas oublier les côtés)
 
@@ -55,16 +57,18 @@
     - On wrap une seconde fois avec du papier de boucher
     
 - Mettre du liquide le wrap d'amulminium ici du consommé de boeuf
-- Mouille le papier avec du liquide pour que la 2e couche tienne
+- Mouiller le papier avec du liquide pour que la 2e couche tienne
 
 ### Étape 3 - Fumage final
-- Apporter la viande jusqu'a 205F
+- Apporter la viande jusqu'a 203F
 
 ### Étape 4 - Repos
-- Une fois à 205F, retirer du fumoir
+- Une fois à 203F, retirer du fumoir
 - Envelopper dans son wrap dans une serviette
 - Laisser reposer pendant au moins 2 heures, dans un cooler
-- Servir
+
+### Étape 5 - Servir
+- Toujours couper dans le sens contraire du grain
 
 
 
