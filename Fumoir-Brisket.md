@@ -12,10 +12,6 @@
     - Vous voulez les 2 parties, donc soyez attentif au boucher
     - Ici, Ben Guerette à utiliser une 6.6kg
 
-## Rub
-- Francis : TBD
-- Benoit : Mon meilleur essai a été avec [SJB Épices à frotter Brisket](https://www.sjbbbq.com/products/epices-a-frotter-brisket)
-
 # Temps estimé
 - Cela dépends toujours de la grosseur évidemment
 - Fumage pour 10 heures, Cuisson dans le wrap pour 4 heures, Repos 2-4 heures
@@ -36,11 +32,14 @@
 #### Membrane
 - N/A
 
+### Rub
+- Francis : Sel, Poivre, Paprika
+- Benoit : Mon meilleur essai a été avec [SJB Épices à frotter Brisket](https://www.sjbbbq.com/products/epices-a-frotter-brisket)
+
 
 ### Enrobage
-- Appliquer une fine couche de moutarde "baseball"/"jaune" sur les pièces de viande
-    - Francis utilise de l'huile avec le boeuf
-- L'objectif est de faire coller le rub, la moutarde est un classique
+- L'objectif est de faire coller le rub
+- Appliquer de la sauce Worcestershire (#FRANCIS)
 - Ajouter le rubs (ne pas oublier les côtés)
 
 ### Préparation du fumoir
@@ -48,7 +47,7 @@
 
 ### Étape 1 - Fumage
 - Placer sur le fumoir
-- Fumer la viande jusqu'à ce qu'elle atteigne de la température de 160F
+- Fumer la viande jusqu'à ce qu'elle atteigne de la température de 160F ou 10 heures
 
 
 ### Étape 2 - Enveloppement
@@ -69,6 +68,7 @@
 
 ### Étape 5 - Servir
 - Toujours couper dans le sens contraire du grain
+- Le dessus de la poitrine n'a pas le même sens de coupe que le reste, donc séparer #20251115
 
 
 
