@@ -12,7 +12,7 @@
 - Ce n'est pas une pièce de viande que l'ont retrouve facilement, le meilleur endroit est votre boucher local.
 - Elles se vendent des fois coupées en poitrine (partie épaisse avec le gras), ou la points (moins gras et plus mince)
     - Vous voulez les 2 parties, donc soyez attentif au boucher
-    - Ici, Ben Guerette à utiliser une 6.6kg
+    - J'utilise normalement une entre 5-7KG
 
 ### Temps estimé
 - Cela dépends toujours de la grosseur évidemment
