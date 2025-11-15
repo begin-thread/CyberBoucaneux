@@ -33,13 +33,13 @@
 - N/A
 
 ### Rub
-- Francis : Sel, Poivre, Paprika
+- Francis : Sel, Poivre, Paprika [20251115]
 - Benoit : Mon meilleur essai a été avec [SJB Épices à frotter Brisket](https://www.sjbbbq.com/products/epices-a-frotter-brisket)
 
 
 ### Enrobage
 - L'objectif est de faire coller le rub
-- Appliquer de la sauce Worcestershire (#FRANCIS)
+- Appliquer de la sauce Worcestershire (#FRANCIS [20251115])
 - Ajouter le rubs (ne pas oublier les côtés)
 
 ### Préparation du fumoir
@@ -48,7 +48,6 @@
 ### Étape 1 - Fumage
 - Placer sur le fumoir
 - Fumer la viande jusqu'à ce qu'elle atteigne de la température de 160F ou 10 heures
-
 
 ### Étape 2 - Enveloppement
 - Ici nous allons utiliser la méthode du "Wrap double"
@@ -68,7 +67,8 @@
 
 ### Étape 5 - Servir
 - Toujours couper dans le sens contraire du grain
-- Le dessus de la poitrine n'a pas le même sens de coupe que le reste, donc séparer #20251115
+- Le dessus de la poitrine n'a pas le même sens de coupe que le reste, donc séparer [20251115]
+
 
 
 
